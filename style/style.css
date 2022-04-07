@@ -1,0 +1,66 @@
+body{
+ background-color: rgb(172, 172, 172);
+ text-align: center;
+}
+
+h1{
+    font-size: 45px;
+    font-family: 'Barlow Condensed', sans-serif;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+.navbar{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(65, 65, 65);
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.navbar:hover{
+    text-align: center;
+    color: rgb(245, 87, 87);
+}
+.postion-affiche{
+ background-color: black;
+}
+
+.affiche{
+    width: 350px;
+    height: 350px;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+h2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;t-family: 'Barlow Condensed', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h3{
+    font-size: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.searchbar-1,.searchbar-2,.searchbar-3,.search{
+    display: inline-block;
+    margin-left: 25px;
+
+}
+
+li{
+    list-style: none;
+    text-align: left;
+}
+
+.historique{
+    display: inline-block;
+}
+
